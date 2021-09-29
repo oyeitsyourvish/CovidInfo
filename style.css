@@ -1,0 +1,69 @@
+*  { 
+    margin: 0;
+    padding: 0;
+    }
+nav {
+    display: flex;
+    padding: 0 23px;
+    background-color: black;
+    color: white;
+    }
+    
+.item {
+    color: white;
+    padding: 3px 8px;
+    list-style: none;
+    }
+.item a {
+        color: white;
+        text-decoration: none;
+        padding: 18px 10px;
+        display: block;
+        font-size: 20px;
+        height: 20px;
+        font-weight: bold;
+        font-family: 'Baloo Thambi 2', cursive;
+    }
+    .item a:hover {
+        background: white;
+        color: black;
+        border-radius: 10px;
+    }
+    .container {
+        padding: 46px;
+        margin: 12px auto;
+        max-width: 69%;
+        background-color: white;
+        border-radius: 12px; 
+    }
+    h1 {
+        text-align: center;
+    }
+    
+    h1,
+    h2,
+    h3 { 
+        font-family: 'Righteous', cursive;
+        padding: 23px 0;
+    }
+    
+    .box p{
+        font-family: 'Baloo Thambi 2', cursive;
+        
+    }
+    h3{
+        padding:10px 0;
+    }
+    
+    ul{
+    font-family: 'Baloo Thambi 2', cursive;
+
+}
+.question{
+    margin: 12px 0;
+}
+
+        
+        
+        
+    
